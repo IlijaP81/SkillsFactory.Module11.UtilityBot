@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityBot", "UtilityBot\UtilityBot.csproj", "{9383B1A0-62EB-408D-BA12-444226FCC3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9383B1A0-62EB-408D-BA12-444226FCC3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9383B1A0-62EB-408D-BA12-444226FCC3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9383B1A0-62EB-408D-BA12-444226FCC3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9383B1A0-62EB-408D-BA12-444226FCC3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E9F4D8-A064-4587-882E-E87D3FC01474}
+	EndGlobalSection
+EndGlobal
